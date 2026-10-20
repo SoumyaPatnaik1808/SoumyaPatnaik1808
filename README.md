@@ -1,28 +1,137 @@
-## Hi there 👋
-# 💫 About Me:
-👋 Hi, I’m a first-year BTech student at Veer Surendra Sai University of Technology (VSSUT)<br>💻 I genuinely enjoy coding and building things that actually work<br>🚀 Currently looking for internship opportunities<br><br>I’m still early in my journey and don’t have industry experience yet, but I’ve built some solid projects by learning, experimenting, and sometimes breaking things along the way. I believe mistakes are part of the process, and I enjoy improving with every project I work on.<br><br>🌱 Always curious, always learning, and open to new opportunities and collaborations.
+<!-- 🔧 Replace every USERNAME with your GitHub username (the repo must be named USERNAME/USERNAME) -->
 
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.soumya88._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumya-patnaik-7b2056398/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/patnaiksoumya20/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SoumyaPatn34672) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Soumya-Patnaik-the-flexboxer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patnaiksoumya20@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Hi%2C%20I'm%20Soumya&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Dev%20%7C%20Hackathon%20Hustler%20%7C%20Tech%20for%20Good&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SoumyaPatnaik1808&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SoumyaPatnaik1808&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaPatnaik1808&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&random=false&width=720&height=60&lines=%3E+console.log(%22Hello%2C+World!%22)%3B;%3E+Building+tech+that+actually+helps+people;%3E+Turning+caffeine+%E2%86%92+code+%E2%98%95%E2%86%92%F0%9F%92%BB;%3E+Hackathons+%7C+Open+Source+%7C+Web+Dev;%3E+Always+shipping.+Always+learning." alt="Typing SVG" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SoumyaPatnaik1808&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=SoumyaPatnaik1808&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/SoumyaPatnaik1808?style=for-the-badge&logo=github&color=00f7ff&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/SoumyaPatnaik1808?style=for-the-badge&logo=starship&color=ffd700&labelColor=0d1117)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SoumyaPatnaik1808&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=SoumyaPatnaik1808&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ═══════════════ ABOUT ═══════════════ -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 &nbsp;About Me
+
+```js
+const soumya = {
+  role:      "Web Developer & CS Student",
+  location:  "Odisha, India 🇮🇳",
+  focus:     ["Full-Stack Web", "Civic Tech", "Heritage & Culture x Tech"],
+  currently: "Prepping for the next hackathon 🚀",
+  learning:  ["System Design", "TypeScript", "Cloud & DevOps"],
+  funFact:   "I debug with console.log and I'm not ashamed of it",
+  mission:   "Build socially impactful products that people actually use",
+};
+```
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+## 🛠️ &nbsp;Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,firebase&perline=6" alt="Core stack" />
+<br/>
+<img src="https://skillicons.dev/icons?i=python,git,github,docker,vscode,figma,postman,linux,vercel,npm&perline=10" alt="Tools" />
+
+</div>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SoumyaPatnaik1808&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaPatnaik1808&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SoumyaPatnaik1808&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff6b35&currStreakLabel=00f7ff" alt="Streak" />
+
+</div>
+
+<!-- ═══════════════ CONTRIBUTIONS ═══════════════ -->
+
+## 🔥 &nbsp;Contribution Zone
+
+### 🐍 The Contribution Snake
+> *Watch the snake eat my commits. Generated daily by a GitHub Action.*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/SoumyaPatnaik1808/SoumyaPatnaik1808/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoumyaPatnaik1808/SoumyaPatnaik1808/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/SoumyaPatnaik1808/SoumyaPatnaik1808/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyaPatnaik1808&theme=react-dark&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&area_color=00f7ff&hide_border=true&radius=10" alt="Activity graph" width="100%" />
+</div>
+
+### 🧊 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" width="100%" />
+</div>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+
+<!-- ## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/SoumyaPatnaik1808/PROJECT-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 1" />
+</a>
+<a href="https://github.com/USERNAME/PROJECT-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 2" />
+</a>
+
+<a href="https://github.com/USERNAME/PROJECT-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT-3&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 3" />
+</a>
+<a href="https://github.com/USERNAME/PROJECT-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT-4&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Project 4" />
+</a> -->
+
+</div>
+
+<!-- ═══════════════ TROPHIES ═══════════════ -->
+
+## 🏆 &nbsp;Trophy Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SoumyaPatnaik1808&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
+</div>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+
+## 🌐 &nbsp;Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/soumya-patnaik-8943623a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:patnaiksoumya20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!-- <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> -->
+<!-- <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-00f7ff?style=for-the-badge&logo=googlechrome&logoColor=black" /></a> -->
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds;Open+to+collabs%2C+hackathon+teams+%26+good+ideas+%F0%9F%A4%9D" alt="Quote" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
