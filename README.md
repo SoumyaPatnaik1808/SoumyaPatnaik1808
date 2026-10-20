@@ -23,7 +23,7 @@
 
 ```js
 const soumya = {
-  role:      "Web Developer & CS Student",
+  role:      "Web Developer & MME Student",
   location:  "Odisha, India 🇮🇳",
   focus:     ["Full-Stack Web", "Civic Tech", "Heritage & Culture x Tech"],
   currently: "Prepping for the next hackathon 🚀",
